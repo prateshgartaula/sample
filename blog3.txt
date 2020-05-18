@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<style>
+*{
+padding:0;
+margin:0;
+
+}
+.header{
+height :80px;
+background-color: powderblue;
+text-align:center;
+line-height:80px;
+font-size:50px;
+}
+
+.main{
+height:550px;
+width:80%;
+background-color: lightblue;
+font-size:25px;
+text-align:left;
+ float: left;
+}
+
+
+.nav{
+text-align:center;
+background-color: lightgrey;
+height:550px;
+width:20%;
+float:left;
+font-size:10px;
+}
+
+.footer{
+
+text-align:center;
+background-color: lightblue;
+}
+
+</style>
+
+<body>
+<div class = "header"
+<h1><i>LET'S PRAY FOR GOOD<i></h1>
+</div>
+
+<div class = "main">
+<img src="https://images.unsplash.com/photo-1493612276216-ee3925520721?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" width="350" height="200">
+<p><h6><i>DEC 14, 2020, 08:45 PM EDT<i></h6></p>
+<p> <h5>Scarcity of electricity</h5></p>
+<br>
+<br>
+<p><h6>As we look back to some of the world poorest countries, Nepal is one of them and there are a lot places besides city area where people are still deprived 
+of electricity. They still have to survive wit the help of candles every night. The country is not poor but the corruption and the proper political management have
+always been a big issue in this country.The kathmandu City which is the capital of country, recently got out of this problem though. The new elected hydro project leader
+abhinash ghisging has implemented the new policy and executed the operation in a more effective way which followed by the end of long awaited load shedding problem in recent
+years.
+<br>
+<br>
+There are still somes places such as Rukum, Rolpa, Manang, Dang that are still the most underdeveloped regions where people die of poverty.Lets hope for their good future.
+But at the same time, the upper leaders are plannign for the long term project to bring the lightness to these places by enforcing the foreign experts to run down the 
+big hydro electricity booths in every region which is a 5 year plan till 2021. 
+</h6>
+</div>
+
+<div class = "nav">
+<h1> RETURN TO HOMEPAGE</h1>
+<h1><a href="home.html">home</a></h1>
+</div>
+
+<div class = "footer">
+<h1>123copyright@helloworld.com</h1>
+</div>
+
+
+</body>
+</html>

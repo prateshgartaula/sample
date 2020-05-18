@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<style>
+*{
+padding:0;
+margin:0;
+
+}
+.header{
+height :80px;
+background-color: powderblue;
+text-align:center;
+line-height:80px;
+font-size:50px;
+}
+
+.main{
+height:550px;
+width:80%;
+background-color: lightblue;
+font-size:25px;
+text-align:left;
+ float: left;
+}
+
+
+.nav{
+text-align:center;
+background-color: lightgrey;
+height:550px;
+width:20%;
+float:left;
+font-size:10px;
+}
+
+.footer{
+
+text-align:center;
+background-color: lightblue;
+}
+
+</style>
+
+<body>
+<div class = "header"
+<h1><i>NBA RUMORS<i></h1>
+</div>
+
+<div class = "main">
+<img src="https://images.idgesg.net/images/article/2019/12/basketball-hoop_score_through-the-net_java-referencing_by-markus-spiske-via-unsplash-100824763-large.jpg" width="500" height="250">
+<p><h6><i>Updated May 27, 2020, 1:59 PM EDT<i></h6></p>
+<p> <h6>NBA Season posponed as Covid-19 symptoms seen on some players </h6></p>
+<br>
+<h6>Yup, yet another season. Yet another excitement inside NBA. But this year is something unexpected. Corona Virus effect has been seen inside the NBA court. The team management were
+not sure whether the covid-19 effect will be here too but the global pandemic made it real. The regular season was on the flow with no issue seen among the playes and the management
+inside the court, where unexpected things happened. During the post press conference. ex-thunder power forward Kevin Durant revealed that some of the effect has been bpthering him a lot since the
+previous day. The health official has not revealed not yet about whether he is conformed victim or not but yes, the management just release the news on NBA posponed until certain time.
+<br>
+This news is making all the NBA fans a little bit but the fact that players too now are becoming victims of covid 19 which is really bad to hear. Well, for the viewers,
+all the sports have started to be posponed until further notice. We recommend the everyone stay safe, keep social distancing and enjoy the indoor environment.
+</h6></div>
+
+<div class = "nav">
+<h1> RETURN TO HOMEPAGE</h1>
+<h1><a href="home.html">home</a></h1>
+</div>
+
+<div class = "footer">
+<h1>123copyright@helloworld.com</h1>
+</div>
+
+
+</body>
+</html>
