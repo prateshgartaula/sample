@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<style>
+*{
+padding:0;
+margin:0;
+
+}
+.header{
+height :80px;
+background-color: powderblue;
+text-align:center;
+line-height:80px;
+font-size:50px;
+}
+
+.main{
+height:550px;
+width:80%;
+background-color: lightblue;
+font-size:25px;
+text-align:left;
+ float: left;
+}
+
+
+.nav{
+text-align:center;
+background-color: lightgrey;
+height:550px;
+width:20%;
+float:left;
+font-size:10px;
+}
+
+.footer{
+
+text-align:center;
+background-color: lightblue;
+}
+
+</style>
+
+<body>
+<div class = "header"
+<h1><i>CORONA VIRUS PANDEMIC<i></h1>
+</div>
+
+<div class = "main">
+<img src="https://images.unsplash.com/photo-1586529726010-2411a6bec3c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80" alt="Flowers in Chania"width="500" height="250">
+<p><h6><i>Updated April 20, 2020, 1:59 PM EDT<i></h6></p>
+<p> <h5>New Jersey ranks after New York as pandemic began to increase globally</h5></p>
+<br>
+<br>
+<p><h6>NewYork has been the hot spot for Corona virus as a lot of people resides there for their residential purpose and employment reason. Recently the peoples around 
+the city area are highly devastated by the corona virus effect. A lot of people had already migrated to other places as way of escape.More than 40,000 people with the
+coronavirus have now died in the United States, according to a New York Times database, a figure that is frequently increasing by more than 2,000 per day.As of Wednesday 
+morning, at least 805,772 people across every state, plus Washington, D.C., and four U.S. territories, have tested positive for the virus, according to a New York Times database.
+<br>
+<br>
+The comparison between the top two states:NewYork and NewJersey has been dramatically increasing day by day in large number as the two states began its lockdown since 
+March 13th. The people working between the states has been greatly affected because of the corona virus spread. The transportation has not been closed yet but still places with few people 
+hurts for viewer.
+</h6></p>
+
+
+</div>
+
+<div class = "nav">
+<h1> RETURN TO HOMEPAGE</h1>
+<h1><a href="home.html">home</a></h1>
+</div>
+
+<div class = "footer">
+<h1>123copyright@helloworld.com</h1>
+</div>
+
+
+</body>
+</html>
