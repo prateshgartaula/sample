@@ -17,4 +17,4 @@ message why the query failed. If it didn’t fail, print a message explaining wh
 able to delete the row.
 Lastyly, in the main method, call each of the methods you have created. Make sure all results
 from your queries are being printed to the console.
-To Submit The Assignment (Read Carefully):
+
